@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Mainak Biswas</h1>
+<h1 align="center">Hi 👋, I'm John Maxwell Gomes</h1>
 <h2 align="center">I am very passionate about Web3 and Blockchain technology.</h2> 
 - 📝 I regularly write articles on https://mainakbiswas.hashnode.dev/
+/n
 - 🌱 I’m currently learning ...
 ### Socials
 
