@@ -16,12 +16,14 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm John Maxwell Gomes</h1>
 <h2 align="center">I am very passionate about Web3 and Blockchain technology.</h2> 
-- 📝 I regularly write articles on https://mainakbiswas.hashnode.dev/
-/n
+<br />
 - 🌱 I’m currently learning ...
+<br />
+- 📝 Follow my updates on https://www.linkedin.com/in/john-maxwell-gomes/
+
 ### Socials
 
-<a href="https://www.x.com/mainakcs" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+<a href="https://www.linkedin.com/in/john-maxwell-gomes/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Skills
 
