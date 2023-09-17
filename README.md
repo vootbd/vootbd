@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm John Maxwell Gomes</h1>
 <h2 align="center">I am very passionate about Web3 and Blockchain technology.</h2> 
+
+<img align="left" width= "47%" src= "https://github-readme-stats.vercel.app/api?username=vootbd&rank_icon=github&theme=transparent" />
+<img align="left" width= "49%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=vootbd&layout=compact&theme=transparent" />
+
+<br />
 <br />
 - 🌱 I’m currently learning ...
 <br />
