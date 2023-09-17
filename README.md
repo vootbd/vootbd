@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <img align="left" width= "47%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=vootbd&layout=compact&theme=transparent" />
 
 <br />
-<br />
-- 🌱 I’m currently learning ...
-<br />
+
+
+-  🌱 I’m currently learning ...
 - 📝 Follow my updates on https://www.linkedin.com/in/john-maxwell-gomes/
 
 ### Socials
