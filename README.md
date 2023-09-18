@@ -1,51 +1,10 @@
 ![Banner Image](images/banner.png)
+
 <h2 align="center"> Opensource | Cloud | DevOps </h2> 
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10%"> I am John</h1>
+
 <h2>About Me</h2> 
-
-<head>
-    <meta charset="UTF-8">
-    <title>John's GitHub Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
-        }
-
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            text-align: center;
-        }
-
-        h1 {
-            font-size: 3em;
-        }
-
-        h2 {
-            font-size: 2em;
-            color: #333;
-        }
-
-        .profile-image {
-            width: 100px;
-            height: 100px;
-            border-radius: 50%;
-            object-fit: cover;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <img class="profile-image" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="John's Profile Image">
-        <h1>Hi, I'm John</h1>
-        <h2>Open Source Enthusiast | Cloud Architect | DevOps Engineer</h2>
-        <p>Welcome to my GitHub profile! I'm passionate about open source, cloud technologies, and DevOps practices. Feel free to explore my repositories and contributions.</p>
-    </div>
-</body>
-
-
 
 I am a Solutions Architect currently working with AWS cloud <img src="images/aws.png" width="10%">.
 🚀 With over a decade of experience, I've honed my skills in crafting appropiate solutions for different cases. My journey is all about utilizing diverse technologies to design, develop, and deploy solutions while gaining deep insights into customers' needs and product usage, where I try incorparate stable opensource applications.
