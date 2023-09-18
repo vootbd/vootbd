@@ -18,8 +18,6 @@ Let's connect and build the future together! 🌟
 <div style="display: flex; justify-content: space-between;">
   <div style="width: 50%;">
     <img width="100%" src="https://github-readme-stats.vercel.app/api?username=vootbd&rank_icon=github&theme=transparent" />
-  </div>
-  <div style="width: 50%;">
     <img class="centered-image" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vootbd&layout=compact&theme=transparent" />
   </div>
 </div>
