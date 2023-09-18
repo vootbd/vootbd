@@ -15,13 +15,6 @@ I am a Solutions Architect currently working with AWS cloud <img src="images/aws
 
 Let's connect and build the future together! 🌟
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 50%;">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=vootbd&rank_icon=github&theme=transparent" />
-    <img class="centered-image" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vootbd&layout=compact&theme=transparent" />
-  </div>
-</div>
-
 <br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vootbd&label=Profile%20views&color=0e75b6&style=flat" alt="vootbd" /> </p>
@@ -32,8 +25,8 @@ Let's connect and build the future together! 🌟
 
 <p align="left">
 <a href="https://linkedin.com/in/john-maxwell-gomes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-<a href="https://instagram.com/john-maxwell-gomes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/7118647/john-maxwell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
+<a href="https://www.instagram.com/john_maxwell_gomes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://m.facebook.com/maxwell.john.79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 
