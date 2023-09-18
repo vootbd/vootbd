@@ -34,7 +34,7 @@ Let's connect and build the future together! 🌟
 <a href="https://m.facebook.com/maxwell.john.79" target="blank"><img align="center" src="https://github.com/vootbd/vootbd/blob/main/images/facebook.svg" alt="facebook" height="30" width="40" /></a>
 
 <h3 align="center">🔗 &nbsp;Badges</h3>
-<a href="https://www.credly.com/users/john-gomes.39dc0faa" target="blank"><img align="center" src="https://github.com/vootbd/vootbd/blob/main/images/credly.svg" alt="credly" height="70" width="80" />
+<a align="center" href="https://www.credly.com/users/john-gomes.39dc0faa" target="blank"><img align="center" src="https://github.com/vootbd/vootbd/blob/main/images/credly.svg" alt="credly" height="70" width="80" />
   
 
 <p align="left">
