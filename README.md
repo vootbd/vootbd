@@ -1,7 +1,6 @@
 ![Banner Image](images/banner.png)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10%"> I am John</h1>
-### About Me
-<br />
+<h2>About Me</h2> 
 I am a Solutions Architect currently working with AWS cloud <img src="images/aws.png" width="10%">.
 <h2 align="center"> Opensource | Cloud | DevOps </h2> 
 
