@@ -32,8 +32,8 @@ Let's connect and build the future together! 🌟
 
 <br />
 
-<h3 align="center">🔗 &nbsp;Badges</h3>
-<p align="center">
+<h3 align="left">🔗 &nbsp;Badges</h3>
+<p align="left">
 <a href="https://www.credly.com/users/john-gomes.39dc0faa" target="blank"><img align="center" src="https://github.com/vootbd/vootbd/blob/main/images/credly.svg" alt="credly" height="70" width="80" />
 </p>  
 
