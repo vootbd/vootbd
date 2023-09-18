@@ -32,7 +32,7 @@ Let's connect and build the future together! 🌟
 <a href="https://www.instagram.com/john_maxwell_gomes/" target="blank"><img align="center" src="https://github.com/vootbd/vootbd/blob/main/images/instagram.svg" alt="instagram" height="30" width="40" /></a>
 <a href="https://m.facebook.com/maxwell.john.79" target="blank"><img align="center" src="https://github.com/vootbd/vootbd/blob/main/images/facebook.svg" alt="facebook" height="30" width="40" /></a>
 
-<h2> <a href="https://www.credly.com/users/john-gomes.39dc0faa" target="blank"><img align="center" src="https://github.com/vootbd/vootbd/blob/main/images/credly.svg" alt="credly" height="50" width="60" /></a>View my badges</h2>
+<h2 align="center" > <a href="https://www.credly.com/users/john-gomes.39dc0faa" target="blank"><img align="center" src="https://github.com/vootbd/vootbd/blob/main/images/credly.svg" alt="credly" height="70" width="80" /></a>View my badges</h2>
   
 
 <p align="left">
