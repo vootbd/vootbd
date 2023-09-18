@@ -1,4 +1,4 @@
-<p align="left"> <img  src="https://komarev.com/ghpvc/?username=vootbd&label=Profile%20views&color=0e75b6&style=flat" alt="vootbd" /> </p>
+<p align="right"> <img  src="https://komarev.com/ghpvc/?username=vootbd&label=Profile%20views&color=0e75b6&style=flat" alt="vootbd" /> </p>
 
 ![Banner Image](images/banner.png)
 
