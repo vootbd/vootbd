@@ -15,15 +15,7 @@ I am a Solutions Architect currently working with AWS cloud <img src="images/aws
 
 Let's connect and build the future together! 🌟
 
-<div style="float: left; width: 47%;">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=vootbd&rank_icon=github&theme=transparent" />
-</div>
-
-<div style="float: right; width: 47%;">
-<img align="center" width= "47%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=vootbd&layout=compact&theme=transparent" />
-</div>
-
-<div style="float: left; width: 47%;">
+<div style="float: left; width: 20%;">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=vootbd&rank_icon=github&theme=transparent" />
 </div>
 <div style="float: left; width: 47%; vertical-align: middle;">
