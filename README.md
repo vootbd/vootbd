@@ -23,7 +23,7 @@ Let's connect and build the future together! 🌟
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vootbd&label=Profile%20views&color=0e75b6&style=flat" alt="vootbd" /> </p>
 -  🌱 I’m currently learning CKA
 
-<h3 align="left">Socials:</h3>
+<h3 align="left">🔗 &nbsp;**Connect with me**</h3>
 
 
 <p align="left">
