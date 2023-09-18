@@ -14,8 +14,10 @@ I am a Solutions Architect currently working with AWS cloud <img src="images/aws
 🧠 When it comes to problem-solving finding a way for complex secnario is my gift. 
 
 Let's connect and build the future together! 🌟
-<img align="left" width= "47%" src= "https://github-readme-stats.vercel.app/api?username=vootbd&rank_icon=github&theme=transparent" />
-<img align="left" width= "47%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=vootbd&layout=compact&theme=transparent" />
+
+<img align="center" width= "47%" src= "https://github-readme-stats.vercel.app/api?username=vootbd&rank_icon=github&theme=transparent" />
+<br />
+<img align="center" width= "47%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=vootbd&layout=compact&theme=transparent" />
 
 <br />
 
