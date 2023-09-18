@@ -3,8 +3,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10%"> I am John</h1>
 <h2>About Me</h2> 
 
-<!DOCTYPE html>
-<html>
 <head>
     <meta charset="UTF-8">
     <title>John's GitHub Profile</title>
@@ -46,7 +44,7 @@
         <p>Welcome to my GitHub profile! I'm passionate about open source, cloud technologies, and DevOps practices. Feel free to explore my repositories and contributions.</p>
     </div>
 </body>
-</html>
+
 
 
 I am a Solutions Architect currently working with AWS cloud <img src="images/aws.png" width="10%">.
