@@ -8,15 +8,15 @@
 
 I am a Solutions Architect currently working with AWS cloud <img src="images/aws.png" width="10%">.
 
-🚀 With over a decade of experience, I've honed my skills in crafting appropiate solutions for different cases. My journey is all about utilizing diverse technologies to design, develop, and deploy solutions while gaining deep insights into customers' needs and product usage, where I try incorparate stable opensource applications.
+🚀 With over a decade of experience, I've honed my skills in crafting appropriate solutions for different cases. My journey is all about utilizing diverse technologies to design, develop, and deploy solutions while gaining deep insights into customers' needs and product usage, where I try to incorporate stable opensource applications.
 
-👨‍🏭 Leading and mentoring AWS team in aamra networks limited, specificallt fosucing in partnership development and business expansion.
+👨‍🏭 Leading and mentoring AWS team in aamra networks limited, specifically focusing in partnership development and business expansion.
 
 🛠️ My tech toolkit includes bash, python scripting, proxmox, vmware virtualization, AWS, CGP, azure, oracle cloud, fortigate, sophos, pfsense firewall and migrating towards devops, devsecops, gitops, SRE and application automation and integration. 
 
 🔐 Industry Authentication standards like LDAP, AZURE AD or oAuth2
 
-🧠 When it comes to problem-solving finding a way for complex secnario is my gift. 
+🧠 When it comes to problem-solving finding a way for complex scenario is my gift. 
 
 🌱 I’m currently learning CKA
 
