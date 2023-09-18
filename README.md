@@ -1,5 +1,5 @@
 ![Banner Image](images/banner.png)
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> I'm John</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10%"> I'm John</h1>
 <h2 align="center"> Opensource | Cloud | DevOps </h2> 
 
 <img align="left" width= "47%" src= "https://github-readme-stats.vercel.app/api?username=vootbd&rank_icon=github&theme=transparent" />
