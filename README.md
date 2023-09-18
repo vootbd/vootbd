@@ -2,6 +2,7 @@
 
 ![Banner Image](images/banner.png)
 
+<h3 align="right">🔗 &nbsp;Connect with me</h3>
 <p align="right">
 <a href="https://linkedin.com/in/john-maxwell-gomes" target="blank"><img align="center" src="https://github.com/vootbd/vootbd/blob/main/images/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/7118647/john-maxwell" target="blank"><img align="center" src="https://github.com/vootbd/vootbd/blob/main/images/stack-overflow.svg" alt="stack-overflow" height="30" width="40" /></a>
