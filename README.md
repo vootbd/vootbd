@@ -1,4 +1,4 @@
-![Banner Image](image/banner.png)
+![Banner Image](images/banner.png)
 <h1 align="center">Hi 👋, I'm John</h1>
 <h2 align="center"> Opensource | Cloud | DevOps </h2> 
 
