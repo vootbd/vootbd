@@ -24,10 +24,10 @@ Let's connect and build the future together! 🌟
 
 
 <p align="left">
-<a href="https://linkedin.com/in/john-maxwell-gomes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/7118647/john-maxwell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-<a href="https://www.instagram.com/john_maxwell_gomes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://m.facebook.com/maxwell.john.79" target="blank"><img align="center" src="https://github.com/vootbd/vootbd/blob/main/images/facebook.svg" alt="vootbd" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/john-maxwell-gomes" target="blank"><img align="center" src="https://github.com/vootbd/vootbd/blob/main/images/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/7118647/john-maxwell" target="blank"><img align="center" src="https://github.com/vootbd/vootbd/blob/main/images/stack-overflow.svg" alt="stack-overflow" height="30" width="40" /></a>
+<a href="https://www.instagram.com/john_maxwell_gomes/" target="blank"><img align="center" src="https://github.com/vootbd/vootbd/blob/main/images/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://m.facebook.com/maxwell.john.79" target="blank"><img align="center" src="https://github.com/vootbd/vootbd/blob/main/images/facebook.svg" alt="facebook" height="30" width="40" /></a>
 
 
 
