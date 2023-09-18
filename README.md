@@ -7,6 +7,7 @@
 <h2>About Me</h2> 
 
 I am a Solutions Architect currently working with AWS cloud <img src="images/aws.png" width="10%">.
+
 🚀 With over a decade of experience, I've honed my skills in crafting appropiate solutions for different cases. My journey is all about utilizing diverse technologies to design, develop, and deploy solutions while gaining deep insights into customers' needs and product usage, where I try incorparate stable opensource applications.
 
 👨‍🏭 Leading and mentoring AWS team in aamra networks limited, specificallt fosucing in partnership development and business expansion.
