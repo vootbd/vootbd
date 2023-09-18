@@ -1,6 +1,8 @@
+<p align="left"> <img  src="https://komarev.com/ghpvc/?username=vootbd&label=Profile%20views&color=0e75b6&style=flat" alt="vootbd" /> </p>
+
 ![Banner Image](images/banner.png)
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10%"> </h1>
+<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10%" > Welcome to my profile </h1>
 
 <h2>About Me</h2> 
 
@@ -16,14 +18,13 @@ I am a Solutions Architect currently working with AWS cloud <img src="images/aws
 
 🧠 When it comes to problem-solving finding a way for complex secnario is my gift. 
 
+🌱 I’m currently learning CKA
+
 Let's connect and build the future together! 🌟
 
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vootbd&label=Profile%20views&color=0e75b6&style=flat" alt="vootbd" /> </p>
--  🌱 I’m currently learning CKA
-
-<h3 align="left">🔗 &nbsp;**Connect with me**</h3>
+<h3 align="left">🔗 &nbsp;Connect with me</h3>
 
 
 <p align="left">
@@ -32,7 +33,8 @@ Let's connect and build the future together! 🌟
 <a href="https://www.instagram.com/john_maxwell_gomes/" target="blank"><img align="center" src="https://github.com/vootbd/vootbd/blob/main/images/instagram.svg" alt="instagram" height="30" width="40" /></a>
 <a href="https://m.facebook.com/maxwell.john.79" target="blank"><img align="center" src="https://github.com/vootbd/vootbd/blob/main/images/facebook.svg" alt="facebook" height="30" width="40" /></a>
 
-<h2 align="center" > <a href="https://www.credly.com/users/john-gomes.39dc0faa" target="blank"><img align="center" src="https://github.com/vootbd/vootbd/blob/main/images/credly.svg" alt="credly" height="70" width="80" /></a>View my badges</h2>
+<h3 align="left">🔗 &nbsp;View My Badges</h3>
+<a href="https://www.credly.com/users/john-gomes.39dc0faa" target="blank"><img align="center" src="https://github.com/vootbd/vootbd/blob/main/images/credly.svg" alt="credly" height="70" width="80" />
   
 
 <p align="left">
