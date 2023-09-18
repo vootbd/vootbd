@@ -1,6 +1,6 @@
 ![Banner Image](images/banner.png)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10%"> I am John</h1>
-### ✨&nbsp;About Me
+### ✨&nbsp; About Me
 I am a Solutions Architect currently working with AWS cloud.
 <h2 align="center"> Opensource | Cloud | DevOps </h2> 
 
