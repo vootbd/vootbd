@@ -26,10 +26,10 @@ Let's connect and build the future together! 🌟
 <div style="float: left; width: 47%;">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=vootbd&rank_icon=github&theme=transparent" />
 </div>
-
-<div style="float: right; width: 47%; text-align: center;">
+<div style="float: left; width: 47%; vertical-align: middle;">
   <img class="centered-image" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vootbd&layout=compact&theme=transparent" />
 </div>
+
 
 <br />
 
