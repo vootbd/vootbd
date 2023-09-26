@@ -14,8 +14,6 @@
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15%" /> <h1>Hi</h1>
 </div>
 
-<p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15%"></p> <h1 align="center">Hi </h1>
-
 <h2>About Me</h2> 
 
 I am a Solutions Architect currently working with AWS cloud <img src="images/aws.png" width="10%">.
