@@ -10,7 +10,7 @@
 <a href="https://m.facebook.com/maxwell.john.79" target="blank"><img align="center" src="https://github.com/vootbd/vootbd/blob/main/images/facebook.svg" alt="facebook" height="30" width="40" /></a>
 </p>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> <h1 align="center">Hi </h1>
+<p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15%"></p> <h1 align="center">Hi </h1>
 
 <h2>About Me</h2> 
 
