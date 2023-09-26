@@ -9,8 +9,8 @@
 <a href="https://www.instagram.com/john_maxwell_gomes/" target="blank"><img align="center" src="https://github.com/vootbd/vootbd/blob/main/images/instagram.svg" alt="instagram" height="30" width="40" /></a>
 <a href="https://m.facebook.com/maxwell.john.79" target="blank"><img align="center" src="https://github.com/vootbd/vootbd/blob/main/images/facebook.svg" alt="facebook" height="30" width="40" /></a>
 </p>
-
-<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50%" > </h1>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50%" >
+<h1 align="center">Hi!</h1>
 
 <h2>About Me</h2> 
 
