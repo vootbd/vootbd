@@ -28,7 +28,10 @@ I am a Solutions Architect currently working with AWS cloud <img src="images/aws
 
 🧠 When it comes to problem-solving finding a way for complex scenario is my gift. 
 
-🌱 I’m currently learning CKA
+![istockphoto-1125716911-612x612](https://github.com/vootbd/vootbd/assets/13695748/03fe9c4f-695d-4c5a-b7c5-96460324c566) Passed CKA. Finished GitOps.
+
+
+🌱 I’m currently learning ...looking for it
 
 Let's connect and build the future together! 🌟
 
